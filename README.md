@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Antoine Douilly</h1>
 <h3 align="center">Development, design and technology at the service of innovation.</h3>
 
-- 🔭 I’m currently working on [Planet Booster](https://github.com/adouilly/planetbooster)
+- 🔭 I’m currently working on [Planet Booster] 
+  -> 🚀🌌 A mobile video game based on card collection in a science fiction and space lore 🌌🚀
 
 - 🌱 I’m currently learning **JS / VUE / REACT / PHP / SOLIDITY**
 
