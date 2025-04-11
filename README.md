@@ -2,7 +2,7 @@
 <h3 align="center">Development, design and technology at the service of innovation.</h3>
 
 - 🔭 I’m currently working on [Planet Booster] 
-  <br>-> 🚀🌌 A mobile video game based on card collection in a science fiction and space lore 🌌🚀
+  <br>-> 🚀🌌 A <strong>mobile video game</strong> based on card collection in a science fiction and space lore 🌌🚀
 
 - 🌱 I’m currently learning **JS / VUE / REACT / PHP / SOLIDITY**
 
