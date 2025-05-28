@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Planet Booster] 
   <br>-> 🚀🌌 A <strong>mobile video game</strong> based on card collection in a science fiction and space lore 🌌🚀
 
-- 🌱 I’m currently learning **JS / VUE / REACT / PHP / SOLIDITY**
+- 🌱 I’m currently learning **JS / VUE / REACT / NODE JS / THREE JS / SOLIDITY**
 
 - 📫 How to reach me **antoine.douilly@gmail.com**
 
