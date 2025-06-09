@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Antoine Douilly</h1>
 <h3 align="center">Development, design and technology at the service of innovation.</h3>
 
+## 🎯 For Recruiters
+### **🚀 [Experience My Interactive 3D Portfolio](https://adouilly.github.io/CV-DEVWEB-Antoine_Douilly/)**
+*Three.js-powered CV | One-click deployment | [Source Code](https://github.com/adouilly/CV-DEVWEB-Antoine_Douilly)*
+
+**Quick Deploy**: Fork → Enable GitHub Pages → Your own interactive CV demo ready!
+
+---
+
 - 🔭 I’m currently working on [Planet Booster] 
   <br>-> 🚀🌌 A <strong>mobile video game</strong> based on card collection in a science fiction and space lore 🌌🚀
 
