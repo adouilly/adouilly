@@ -16,16 +16,29 @@
   🎮 *Planet Booster*  
   <br>→ A **mobile video game** based on **card collection** in a **sci-fi & space universe** 🌌🚀
 
-- 🧠 **Currently learning:**  
-  `JavaScript` / `Vue.js` / `React` / `Node.js` / `Three.js` / `Solidity`
-
 - 🌐 **Recent freelance project:**  
   🎬 [Greenfinch Productions](https://www.greenfinch-productions.fr)  
   → Custom **WordPress** website for a film production company
 
-- 🧪 **Internship project (Web Dev final training project):**  
+- 🧪 **Internship project (final project for Web & Mobile Web Developer training):**  
   ⚡ [Electro Libre](https://electro-libre.org)  
   → A platform promoting local renewable energy initiatives
+
+---
+
+## 🛠️ Skills & Technologies
+
+### ✅ Languages & Tools I Master:
+- `HTML5`, `CSS3`, `PHP`, `MySQL`, `JavaScript (vanilla)`
+
+### 🔄 Currently Learning & Exploring:
+- `Three.js`, `React`, `React Native`, `Node.js`, `Solidity`
+
+### 🧩 Additional Skills:
+- WordPress development & customization
+- UI/UX design & responsive integration
+- Project management & client communication
+- Agile methodology & autonomous workflow
 
 ---
 
@@ -35,17 +48,6 @@
 I’m looking for new challenges where I can bring value as a **web project specialist**, combining **custom development** and **WordPress expertise**, from client brief to final delivery.
 
 💡 Autonomous, organized, and solution-oriented, I thrive when turning client needs into fully functional and visually impactful web experiences.
-
----
-
-## 🛠️ Skills & Expertise
-
-- ✅ Web project management from A to Z
-- ✅ WordPress development & customization
-- ✅ Frontend (HTML, CSS, JS, Vue, React)
-- ✅ Backend (Node.js, PHP basics)
-- ✅ UI/UX Design and integration
-- ✅ Client relations and agile workflow
 
 ---
 
