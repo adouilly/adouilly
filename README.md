@@ -22,7 +22,7 @@
 
 - 🧪 **Internship project (final project for Web & Mobile Web Developer training):**  
   ⚡ [Electro Libre](https://electro-libre.org)  
-  → A platform promoting local renewable energy initiatives
+  → A platform showcasing local electronic artists and hosting vibrant music events
 
 ---
 
