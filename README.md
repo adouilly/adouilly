@@ -6,7 +6,7 @@
 ## 🎯 For Recruiters
 
 ### 🚀 Experience My Interactive 3D Portfolio  
-🔗 [https://cv.antoinedouilly.atlantisdesigns.fr](https://cv.antoinedouilly.atlantisdesigns.fr)
+🔗 [https://cv.antoinedouilly.atlantisdesigns.fr](https://code-and-pixel.fr)
 
 ---
 
